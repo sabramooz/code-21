@@ -1,0 +1,6 @@
+# Dont save database files
+*.sql
+*.sqlite
+
+# Dont save dataset files
+*.csv
