@@ -4,3 +4,5 @@
 
 # Dont save dataset files
 *.csv
+
+.idea/
